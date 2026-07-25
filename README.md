@@ -131,6 +131,14 @@ print("Accuracy:", model.score(X, y))
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+## Certifications
+
+This repo was built as part of an ongoing, hands-on complement to formal coursework:
+
+- **[Machine Learning Specialization](https://coursera.org/verify/specialization/1M070BP1PHU0)** — DeepLearning.AI & Stanford Online (Andrew Ng), 3      courses
+  - Supervised Machine Learning: Regression and Classification
+  - [Advanced Learning Algorithms](https://coursera.org/verify/I67K7O5GEHTM)
+  - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/verify/NLK3I0SII701)
 
 ## Author
 
